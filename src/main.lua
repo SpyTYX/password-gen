@@ -13,7 +13,7 @@ local function generate()
 end
 
 if isWindows then
-    print("Modes: Normal, Cipher, Cipher Beta")
+    print("Moonzy's Password Generator | 0.02\nModes: Normal, Cipher, Cipher Beta")
     io.write("Enter your mode of generation: ")
     mode = io.read("*l")
 
