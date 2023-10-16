@@ -18,5 +18,6 @@ Keep in mind this Password Generator only runs in Windows and was tested in Wind
 - Step 2: Download .ZIP file, you must have 7zip or winrar installed.
 - Step 3: Extract the .ZIP file
 - Step 4: Run the .BAT file
-- Step 5: Enter how long you want your password to be
-- Step 6: You are done!
+- Step 5: Enter what generation mode you want to use
+- Step 6: Enter how long you want your password to be
+- Step 7: You are done!
